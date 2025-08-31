@@ -19,7 +19,7 @@ It rebinds the **Print Screen** key (including `Fn+PrtSc`) and **Super+PrtSc** t
 
 Clone and run the setup script:
 
-    git clone [this sctipt](https://github.com/havokzero/flameshot-setup).git
+    git clone https://github.com/havokzero/flameshot-setup.git
     cd flameshot-auto-setup
     bash setup-flameshot.sh
 
@@ -29,9 +29,7 @@ Log out and back in (or reboot) to apply keybinding changes.
 
 ## 🖼️ Example
 
-Press <kbd>PrtSc</kbd> or <kbd>Super</kbd>+<kbd>PrtSc</kbd> to launch the Flameshot capture overlay:
-
-![flameshot demo](https://flameshot.org/img/screen1.jpg)
+Press <kbd>PrtSc</kbd> or <kbd>Super</kbd>+<kbd>PrtSc</kbd> to launch the Flameshot capture overlay
 
 ---
 
