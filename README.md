@@ -19,7 +19,7 @@ It rebinds the **Print Screen** key (including `Fn+PrtSc`) and **Super+PrtSc** t
 
 Clone and run the setup script:
 
-    git clone https://github.com/<your-username>/flameshot-auto-setup.git
+    git clone [this sctipt](https://github.com/havokzero/flameshot-setup).git
     cd flameshot-auto-setup
     bash setup-flameshot.sh
 
