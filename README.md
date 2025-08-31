@@ -40,5 +40,5 @@ Press <kbd>PrtSc</kbd> or <kbd>Super</kbd>+<kbd>PrtSc</kbd> to launch the Flames
 
 ---
 
-## 📜 License
-MIT
+---
+
